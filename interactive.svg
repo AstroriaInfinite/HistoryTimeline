@@ -48,7 +48,8 @@
    inkscape:window-x="66"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="InteractiveSVG" />
+   inkscape:current-layer="complain"
+   showguides="false" />
 <g
    id="background"
    transform="matrix(1,0,0,1.27566,0,-382.61228)">
@@ -315,12 +316,7 @@
    points="520.256,1010.415 532.566,1001.092 515.023,990.133   "
    id="polyline232"
    style="fill:#5d0e03;fill-opacity:1" />
-		<text
-   transform="translate(407.2793,1007.6328)"
-   font-size="28.2251"
-   id="text234"
-   style="font-size:28.22509956px;fill:#ffffff;font-family:LeagueGothic;fill-opacity:1">12PM</text>
-
+		
 
 		<g
    id="complain-badge">
