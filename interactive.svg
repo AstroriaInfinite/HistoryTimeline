@@ -14,9 +14,9 @@
    id="InteractiveSVG"
    x="0px"
    y="0px"
-   width="1024"
+   width="745"
    height="3318"
-   viewBox="0 0 1024 3318"
+   viewBox="0 0 745 3318"
    enable-background="new 0 0 1024 1388"
    xml:space="preserve"
    inkscape:version="0.4 r12068"
@@ -132,13 +132,13 @@
    inkscape:window-height="1057"
    id="namedview369"
    showgrid="false"
-   inkscape:zoom="0.70710678"
-   inkscape:cx="481.73892"
-   inkscape:cy="322.39949"
+   inkscape:zoom="0.35355339"
+   inkscape:cx="800.15982"
+   inkscape:cy="2514.7453"
    inkscape:window-x="66"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g7512"
+   inkscape:current-layer="background"
    showguides="false" />
 <g
    id="background"
@@ -149,7 +149,7 @@
 <rect
    style="fill:#4097a4;fill-opacity:1;stroke:none"
    id="rect7301"
-   width="1033.4486"
+   width="745.44861"
    height="2612.6086"
    x="-6.2381201"
    y="294.242" /><path
@@ -164,7 +164,7 @@
    id="path7382"
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
-   transform="matrix(2.3265003,0,0,2.3265003,-691.40504,-352.2705)" /><path
+   transform="matrix(2.3265003,0,0,2.3265003,-3831.405,-483.96703)" /><path
    sodipodi:nodetypes="zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
    inkscape:connector-curvature="0"
    id="path7384"
@@ -174,7 +174,7 @@
 
 <g
    id="timeline"
-   transform="translate(34.674599,-342.7837)">
+   transform="translate(-157.3254,-342.7837)">
 	<g
    id="coffee">
 		<g
@@ -2434,7 +2434,7 @@ barcWxhiMYCxH5BlhnqfeiigBPFWjWek38SWgdFkj3EbuM0UUUAf/9k=
      id="tspan7463"
      x="586.89862"
      y="137.4337"
-     style="font-size:27.5px;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;-inkscape-font-specification:LeagueGothic;font-family:LeagueGothic;fill:#f5aa04;fill-opacity:1">43-400 C.E.</tspan></text>
+     style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f5aa04;fill-opacity:1;font-family:LeagueGothic;-inkscape-font-specification:LeagueGothic">43-400 C.E.</tspan></text>
 </g>
 	<g
    id="design"
@@ -2668,7 +2668,7 @@ barcWxhiMYCxH5BlhnqfeiigBPFWjWek38SWgdFkj3EbuM0UUUAf/9k=
 		<text
    font-size="28.2251"
    id="text266"
-   style="font-size:28.22509956px;fill:#473f29;font-family:LeagueGothic;fill-opacity:1"
+   style="font-size:28.22509956px;fill:#473f29;fill-opacity:1;font-family:LeagueGothic"
    x="557.28107"
    y="1428.4207">793-1066 C.E.</text>
 
