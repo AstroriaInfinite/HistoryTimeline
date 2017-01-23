@@ -23,7 +23,13 @@
    id="metadata373"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs371" /><sodipodi:namedview
+   id="defs371"><filter
+     id="filter7297"
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Blur"><feGaussianBlur
+       id="feGaussianBlur7299"
+       stdDeviation="18.3865 18.39"
+       result="blur" /></filter></defs><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -37,221 +43,31 @@
    id="namedview369"
    showgrid="false"
    inkscape:zoom="0.48091412"
-   inkscape:cx="744.05741"
-   inkscape:cy="730.28866"
+   inkscape:cx="627.51709"
+   inkscape:cy="715.46929"
    inkscape:window-x="66"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="coffee-icon" />
+   inkscape:current-layer="InteractiveSVG" />
 <g
    id="background"
    transform="matrix(1,0,0,1.27566,0,-382.61228)">
-	<rect
-   y="297.98599"
-   width="1023.91"
-   height="1090"
-   id="rect4"
-   x="0"
-   style="fill:#e8efef" />
-	<g
-   id="g6">
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="1252.486"
-   x2="565.45502"
-   y2="1252.486"
-   id="line8"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="1177.577"
-   x2="565.45502"
-   y2="1177.577"
-   id="line10"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="1102.668"
-   x2="565.45502"
-   y2="1102.668"
-   id="line12"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="1027.7581"
-   x2="565.45502"
-   y2="1027.7581"
-   id="line14"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="952.84998"
-   x2="565.45502"
-   y2="952.84998"
-   id="line16"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="877.94"
-   x2="565.45502"
-   y2="877.94"
-   id="line18"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="803.03101"
-   x2="565.45502"
-   y2="803.03101"
-   id="line20"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="728.12299"
-   x2="565.45502"
-   y2="728.12201"
-   id="line22"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="653.21399"
-   x2="565.45502"
-   y2="653.21399"
-   id="line24"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="578.30499"
-   x2="565.45502"
-   y2="578.30499"
-   id="line26"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="503.396"
-   x2="565.45502"
-   y2="503.396"
-   id="line28"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="950.36902"
-   y1="428.48599"
-   x2="565.45502"
-   y2="428.48599"
-   id="line30"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-	</g>
-	<g
-   id="g32">
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="1252.486"
-   x2="89.467003"
-   y2="1252.486"
-   id="line34"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="1177.577"
-   x2="89.467003"
-   y2="1177.577"
-   id="line36"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="1102.668"
-   x2="89.467003"
-   y2="1102.668"
-   id="line38"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="1027.7581"
-   x2="89.467003"
-   y2="1027.7581"
-   id="line40"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="952.84998"
-   x2="89.467003"
-   y2="952.84998"
-   id="line42"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="877.94"
-   x2="89.467003"
-   y2="877.94"
-   id="line44"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="803.03101"
-   x2="89.467003"
-   y2="803.03101"
-   id="line46"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="728.12201"
-   x2="89.467003"
-   y2="728.12201"
-   id="line48"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="653.21399"
-   x2="89.467003"
-   y2="653.21399"
-   id="line50"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="578.30499"
-   x2="89.467003"
-   y2="578.30499"
-   id="line52"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="503.396"
-   x2="89.467003"
-   y2="503.396"
-   id="line54"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-		<line
-   stroke-miterlimit="10"
-   x1="458.45401"
-   y1="428.48599"
-   x2="89.467003"
-   y2="428.48599"
-   id="line56"
-   style="fill:none;stroke:#cadbdd;stroke-miterlimit:10" />
-	</g>
-</g>
+	
+	
+	
+<rect
+   style="fill:#4097a4;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="rect7301"
+   width="1033.4486"
+   height="1399.4182"
+   x="-6.2381201"
+   y="-7.259511"
+   transform="matrix(1,0,0,0.78390794,0,299.9328)" /><path
+   style="fill:#397c3b;fill-opacity:1;stroke:none;filter:url(#filter7297)"
+   d="m 587.41545,313.27803 c -29.97442,-2.63214 -103.02906,29.87184 -132.3692,25.45193 -29.34014,-4.41994 -4.76562,-25.65365 -34.96561,-19.57839 -30.19998,6.07526 -51.45405,76.4006 -62.43865,101.80764 -10.98459,25.40705 -3.99242,33.61794 -12.48753,46.98812 -8.4951,13.37019 -35.18133,18.61622 -34.9656,31.32546 0.21403,12.70922 11.15479,21.91519 29.97067,25.45188 18.81588,3.53668 52.49462,-38.58475 67.43324,-19.57838 14.93862,19.00635 -47.42527,23.58381 -72.42852,52.86165 -25.00326,29.27785 -107.51475,106.30752 -59.94067,125.30171 47.57408,18.99419 50.80484,-95.9229 82.41841,-97.89197 31.61358,-1.96906 20.57327,5.79177 27.47304,23.4941 6.89976,17.70234 -1.14827,54.2442 -14.98517,78.31358 -13.83691,24.06938 -60.32626,40.9036 -64.93595,60.69299 -4.60969,19.78938 -4.15311,27.4245 17.48281,39.15679 21.63591,11.73229 76.973,-21.62317 104.8965,-1.95785 27.9235,19.66533 11.97794,64.34897 9.99023,93.97632 -1.98772,29.62736 6.49345,63.36857 -19.98045,82.22926 -26.47391,18.86068 -81.07788,-3.14338 -107.39414,7.83135 -26.31628,10.97474 -52.25614,27.52025 -44.9555,43.07248 7.30064,15.5522 44.7503,-7.5904 54.94572,7.8313 10.19542,15.4218 -4.27813,36.7986 -32.46797,54.8195 -28.18985,18.0209 -122.24342,-1.2875 -137.36454,25.4519 -15.12106,26.7394 16.82958,48.1308 39.96061,56.7774 23.13104,8.6466 44.44796,-17.349 69.9309,-9.7892 25.48294,7.5597 68.25978,31.6063 57.44336,56.7773 -10.81643,25.171 -60.04529,4.3051 -107.39414,21.5363 -47.34892,17.2311 -163.272829,54.2348 -164.837253,92.0184 -1.564422,37.7836 33.93117,37.3575 67.433263,43.0725 33.50209,5.7148 85.40804,-27.6461 114.88679,-23.4942 29.47876,4.152 26.9879,29.812 49.95079,27.4098 22.96287,-2.4022 19.14947,-40.3002 49.95077,-46.9881 30.80129,-6.688 71.60198,23.9247 107.39415,29.3675 35.79216,5.4431 64.51128,3.1624 104.8965,3.9158 40.3852,0.7533 88.50353,5.5331 137.36447,0 48.86095,-5.5333 127.18264,-15.0996 152.34998,-35.2412 25.16733,-20.1414 25.71905,-25.407 14.98516,-43.0724 -10.73387,-17.6655 -82.43539,2.4536 -84.91638,-29.3676 -2.481,-31.8212 107.64349,-32.4702 129.87223,-60.693 22.22873,-28.2229 19.38865,-55.887 7.49258,-80.2714 -11.89607,-24.3845 -45.06489,-45.4439 -69.93122,-52.8617 -24.86635,-7.4179 -44.33551,18.5 -62.43831,1.9578 -18.10281,-16.5422 25.45779,-40.5644 19.9801,-80.27135 -5.47768,-39.70703 -57.97503,-97.43538 -79.92111,-144.88014 -21.94607,-47.44474 -34.88305,-104.66144 -52.44808,-139.00655 -17.56502,-34.3451 -46.11871,-36.38746 -44.95583,-68.52441 1.16286,-32.13694 53.39319,-75.34701 74.92617,-99.84978 21.53297,-24.50276 47.29855,-27.94797 49.95078,-48.94598 2.65221,-20.99801 -11.82473,-44.19849 -37.46326,-56.77734 -25.63853,-12.57884 -75.7551,-1.72127 -99.90122,-1.95786 -24.14612,-0.23643 -31.78751,20.44947 -44.95584,0 -13.16833,-20.44946 84.2356,-59.99045 77.42381,-82.22925 C 620.56456,306.70195 617.38985,315.91017 587.41545,313.27803 Z"
+   id="path7275"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz" /></g>
 
 
 <g
@@ -278,6 +94,7 @@
    id="text155"
    style="font-size:28.22509956px;fill:#5b4f35;font-family:LeagueGothic">9AM</text>
 
+
 		</g>
 		<g
    id="coffee-badge">
@@ -299,6 +116,7 @@
    font-size="28.2251"
    id="text161"
    style="font-size:28.22509956px;fill:#ffffff;font-family:LeagueGothic">Romans</text>
+
 
 			</g>
 			<g
@@ -344,11 +162,13 @@
    id="text183"
    style="font-size:18px;fill:#ceb995;font-family:LeagueGothic">Roman rule  of Britain</text>
 
+
 				<text
    transform="translate(249.6372,565.0039)"
    font-size="18"
    id="text185"
    style="font-size:18px;fill:#ceb995;font-family:LeagueGothic">//TODO</text>
+
 
 			</g>
 		</g>
@@ -372,6 +192,7 @@
    id="text192"
    style="font-size:28.22509956px;fill:#d1652f;font-family:LeagueGothic">10AM</text>
 
+
 		<g
    id="design-badge">
 			<circle
@@ -393,6 +214,7 @@
    id="text198"
    style="font-size:28.22509956px;fill:#ffffff;font-family:LeagueGothic">DESIGN</text>
 
+
 			</g>
 			<g
    id="design-details">
@@ -409,11 +231,13 @@
    id="text203"
    style="font-size:18px;fill:#e8ad67;font-family:LeagueGothic">WORLDWIDE, A NEW WEB PAGE IS </text>
 
+
 				<text
    transform="translate(637.2568,685.2305)"
    font-size="18"
    id="text205"
    style="font-size:18px;fill:#e8ad67;font-family:LeagueGothic">DESIGNED EVERY 0.4 SECONDS</text>
+
 
 				<g
    id="g207">
@@ -486,16 +310,17 @@
    width="17"
    height="283"
    id="rect230"
-   style="fill:#6dbacc" />
+   style="fill:#5d0e03;fill-opacity:1" />
 		<polyline
    points="520.256,1010.415 532.566,1001.092 515.023,990.133   "
    id="polyline232"
-   style="fill:#6dbacc" />
+   style="fill:#5d0e03;fill-opacity:1" />
 		<text
    transform="translate(407.2793,1007.6328)"
    font-size="28.2251"
    id="text234"
-   style="font-size:28.22509956px;fill:#6dbacc;font-family:LeagueGothic">12PM</text>
+   style="font-size:28.22509956px;fill:#ffffff;font-family:LeagueGothic;fill-opacity:1">12PM</text>
+
 
 		<g
    id="complain-badge">
@@ -509,20 +334,22 @@
    sodipodi:cy="1000.5"
    sodipodi:rx="130.5"
    sodipodi:ry="130.5"
-   style="fill:#6dbacc" />
+   style="fill:#5d0e03;fill-opacity:1" />
 			<g
    id="complain-title">
 				<text
    transform="translate(680.0996,916.1816)"
    font-size="24.3935"
    id="text240"
-   style="font-size:24.39349937px;fill:#ffffff;font-family:LeagueGothic">COMPLAIN</text>
+   style="font-size:24.39349937px;fill:#ffffff;font-family:LeagueGothic">Early Medieval</text>
+
 
 				<text
    transform="translate(684.5508,940.2686)"
    font-size="24.3935"
    id="text242"
-   style="font-size:24.39349937px;fill:#ffffff;font-family:LeagueGothic">ABOUT IE</text>
+   style="font-size:24.39349937px;fill:#ffffff;font-family:LeagueGothic">166-1337</text>
+
 
 			</g>
 			<g
@@ -538,46 +365,27 @@
    transform="translate(637.332,1059.6289)"
    font-size="18"
    id="text247"
-   style="font-size:18px;fill:#b9e4ea;font-family:LeagueGothic">BROWSER QUIRKS CAN INCREASE </text>
+   style="font-size:18px;fill:#ffffff;font-family:LeagueGothic;fill-opacity:1">//TODO </text>
 
-				<text
-   transform="translate(646.9707,1081.2305)"
-   font-size="18"
-   id="text249"
-   style="font-size:18px;fill:#b9e4ea;font-family:LeagueGothic">PRODUCTION TIME UP TO 71%</text>
+
+				
 
 				<g
    id="g251">
-					<path
-   d="m 743.486,1005.52 c -4.162,-0.01 -12.915,-0.396 -16.066,-0.526 -3.182,-0.132 -4.639,5.476 -11.518,5.478 -17.875,0.01 -16.861,-11.994 -11.955,-11.994 3.914,0 28.607,0 40.521,-0.199 4.507,-1.771 3.23,-14.997 -5.068,-24.89 -8.82,-10.506 -18.236,-10.804 -18.236,-10.804 7.334,-5.055 18.039,-5.946 21.012,-4.561 2.978,1.39 3.646,0.299 3.646,0.299 -8.25,-10.704 -30.804,3.068 -30.804,3.068 -30.229,2.577 -33.005,29.438 -33.005,29.438 2.68,-3.271 7.83,-6.046 9.416,-7.533 1.586,-1.487 1.586,0 1.586,0 -33.006,43.709 1.094,44.604 -2.771,42.421 -3.865,-2.181 -2.678,-13.578 -2.678,-13.578 1.092,1.288 9.813,15.267 28.741,14.569 18.935,-0.693 26.813,-16.422 27.807,-19.099 C 744.445,1006.699 744.143,1006.021 743.486,1005.52 z m -37.809,-26.796 c 6.381,-3.635 18.079,-2.974 21.624,2.812 3.545,5.786 -0.354,6.604 -1.949,7.27 -1.596,0.661 -19.675,0 -19.675,0 C 700.005,988.801 699.297,982.358 705.677,978.724 Z"
-   id="path253"
-   inkscape:connector-curvature="0"
-   style="fill:#004f84" />
-					<path
-   enable-background="new    "
-   d="m 736.968,978.469 c -1.242,0.969 -5.843,-2.894 -12.034,-5.953 -6.126,-3.184 -11.961,-4.606 -11.914,-6.185 -0.05,-1.521 7.019,-2.601 14.447,1.188 C 734.916,971.273 738.221,977.61 736.968,978.469 Z"
-   id="path255"
-   inkscape:connector-curvature="0"
-   style="opacity:0.56000001;fill:#0097c0" />
-					<path
-   enable-background="new    "
-   d="m 698.653,1009.835 c 5.729,4.177 17.164,7.82 10.646,8.689 -6.518,0.87 -17.164,-6.082 -15.856,-9.993 C 694.743,1004.62 696.565,1008.313 698.653,1009.835 Z"
-   id="path257"
-   inkscape:connector-curvature="0"
-   style="opacity:0.56000001;fill:#0097c0" />
-					<ellipse
-   cx="713.66699"
-   cy="1032.3571"
-   rx="19.667"
-   ry="2.0239999"
-   id="ellipse259"
-   d="m 733.33399,1032.3571 c 0,1.1178 -8.80521,2.024 -19.667,2.024 -10.86178,0 -19.667,-0.9062 -19.667,-2.024 0,-1.1179 8.80522,-2.024 19.667,-2.024 C 724.52878,1030.3331 733.33399,1031.2392 733.33399,1032.3571 Z"
-   sodipodi:cx="713.66699"
-   sodipodi:cy="1032.3571"
-   sodipodi:rx="19.667"
-   sodipodi:ry="2.0239999"
-   style="fill:#448faa" />
-				</g>
+					
+					
+					
+					
+				<path
+   sodipodi:type="arc"
+   style="fill:#1f0501;fill-opacity:1;stroke:none"
+   id="path7303"
+   sodipodi:cx="692.52966"
+   sodipodi:cy="643.64087"
+   sodipodi:rx="31.612288"
+   sodipodi:ry="18.011652"
+   d="m 724.14195,643.64087 a 31.612288,18.011652 0 1 1 -63.22457,0 A 31.612288,18.011652 0 1 1 724.14195,643.64087 Z"
+   transform="matrix(1,0,0,1.6122449,38.963983,-40.449325)" /></g>
 			</g>
 		</g>
 	</g>
@@ -600,6 +408,7 @@
    id="text266"
    style="font-size:28.22509956px;fill:#b1c482;font-family:LeagueGothic">11AM</text>
 
+
 		<g
    id="build-badge">
 			<circle
@@ -621,6 +430,7 @@
    id="text272"
    style="font-size:28.22509956px;fill:#ffffff;font-family:LeagueGothic">BUILD</text>
 
+
 			</g>
 			<g
    id="build-details">
@@ -637,11 +447,13 @@
    id="text277"
    style="font-size:18px;fill:#ebf4ce;font-family:LeagueGothic">64% OF WEB DESIGNERS CONSIDER</text>
 
+
 				<text
    transform="translate(244.9507,853.2305)"
    font-size="18"
    id="text279"
    style="font-size:18px;fill:#ebf4ce;font-family:LeagueGothic">THEMSELVES SELF-TAUGHT</text>
+
 
 				<g
    id="g281">
@@ -726,6 +538,7 @@
    id="text310"
    style="font-size:28.22509956px;fill:#eab83d;font-family:LeagueGothic">3PM</text>
 
+
 		<g
    id="beer-badge">
 			<circle
@@ -747,6 +560,7 @@
    id="text316"
    style="font-size:28.22509956px;fill:#ffffff;font-family:LeagueGothic">BEER</text>
 
+
 			</g>
 			<g
    id="beer-details">
@@ -763,11 +577,13 @@
    id="text321"
    style="font-size:18px;fill:#ebf4ce;font-family:LeagueGothic">HEINEKEN IS THE #1 CHOICE OF</text>
 
+
 				<text
    transform="translate(240.1099,1271.2305)"
    font-size="18"
    id="text323"
    style="font-size:18px;fill:#ebf4ce;font-family:LeagueGothic">BEER AMONG WEB DESIGNERS</text>
+
 
 				<g
    id="g325">
