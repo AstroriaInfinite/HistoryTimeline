@@ -29,7 +29,10 @@
        style="stop-color:#000000;stop-opacity:0;"
        offset="0"
        id="stop7326" /><stop
-       style="stop-color:#000000;stop-opacity:0.34400001;"
+       id="stop7332"
+       offset="0.78037381"
+       style="stop-color:#000000;stop-opacity:0.17254902;" /><stop
+       style="stop-color:#000000;stop-opacity:0.76800001;"
        offset="1"
        id="stop7328" /></linearGradient><filter
      id="filter7297"
