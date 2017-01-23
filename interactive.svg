@@ -25,6 +25,16 @@
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
    id="defs371"><linearGradient
+     id="linearGradient7451"><stop
+       style="stop-color:#ffb207;stop-opacity:1;"
+       offset="0"
+       id="stop7453" /><stop
+       id="stop7459"
+       offset="0.8226614"
+       style="stop-color:#f1a703;stop-opacity:1;" /><stop
+       style="stop-color:#a77300;stop-opacity:1;"
+       offset="1"
+       id="stop7455" /></linearGradient><linearGradient
      id="linearGradient7324"><stop
        style="stop-color:#000000;stop-opacity:0;"
        offset="0"
@@ -100,7 +110,16 @@
      cy="127.37991"
      fx="270.83838"
      fy="127.37991"
-     r="55.623238" /></defs><sodipodi:namedview
+     r="55.623238" /><radialGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient7451"
+     id="radialGradient7457"
+     cx="311.58099"
+     cy="484.27301"
+     fx="311.58099"
+     fy="484.27301"
+     r="130.5"
+     gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -119,7 +138,7 @@
    inkscape:window-x="66"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="coffee-icon"
+   inkscape:current-layer="coffee"
    showguides="false" />
 <g
    id="background"
@@ -2328,11 +2347,11 @@ barcWxhiMYCxH5BlhnqfeiigBPFWjWek38SWgdFkj3EbuM0UUUAf/9k=
    width="17"
    height="107"
    id="rect149"
-   style="fill:#5b4f35" />
+   style="fill:#f5aa04;fill-opacity:1" />
 		<polyline
    points="509.334,474.132 497.023,483.456 514.566,494.415   "
    id="polyline151"
-   style="fill:#5b4f35" />
+   style="fill:#f4a903;fill-opacity:1" />
 		<g
    id="g153">
 			<text
@@ -2355,7 +2374,7 @@ barcWxhiMYCxH5BlhnqfeiigBPFWjWek38SWgdFkj3EbuM0UUUAf/9k=
    sodipodi:cy="484.27301"
    sodipodi:rx="130.5"
    sodipodi:ry="130.5"
-   style="fill:#5b4f35" />
+   style="fill:url(#radialGradient7457);fill-opacity:1" />
 			<g
    id="coffee-title">
 				<text
@@ -4564,14 +4583,14 @@ barcWxhiMYCxH5BlhnqfeiigBPFWjWek38SWgdFkj3EbuM0UUUAf/9k=
    transform="translate(219.7134,543.4023)"
    font-size="18"
    id="text183"
-   style="font-size:18px;fill:#ceb995;font-family:LeagueGothic">Roman rule  of Britain</text>
+   style="font-size:18px;fill:#ffffff;font-family:LeagueGothic;fill-opacity:1">Roman rule  of Britain</text>
 
 
 				<text
    transform="translate(249.6372,565.0039)"
    font-size="18"
    id="text185"
-   style="font-size:18px;fill:#ceb995;font-family:LeagueGothic">//TODO</text>
+   style="font-size:18px;fill:#ffffff;font-family:LeagueGothic;fill-opacity:1">//TODO</text>
 
 
 			</g>
