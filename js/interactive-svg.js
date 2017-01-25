@@ -1,4 +1,4 @@
-function respond (response) {
+function respond(response) {
 		var t = $(this);
 		t.addClass("svgLoaded");
 		//t.attr("xmlns", "http://www.w3.org/2000/svg");
@@ -11,7 +11,7 @@ function respond (response) {
 		}
 
 
-
+}
 $(function () {
 
 	$("#britainStage").load('britishLine.svg', respond);
