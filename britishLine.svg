@@ -1006,7 +1006,8 @@
    sodipodi:ry="130.5"
    style="fill:#12fff2;fill-opacity:1"
    clip-path="url(#clipPath8922)"
-   onclick="window.location.href = &quot;https://sites.google.com/a/hamline.edu/class-wi17-hist-1980-01/britain/viking-era-in-britain-793-c-e-to-1066-c-e&quot;" /><g
+   onclick="var win = window.open(https://sites.google.com/a/hamline.edu/class-wi17-hist-1980-01/britain/viking-era-in-britain-793-c-e-to-1066-c-e, '_blank');
+  win.focus();" /><g
    id="g10502"
    style="stroke:none">
 				<text
