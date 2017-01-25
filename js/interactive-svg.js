@@ -1,6 +1,6 @@
 $(function () {
 
-	$("#britainStage").load('interactive.svg', function (response) {
+	$("#britainStage").load('britishLine.svg', function (response) {
 
 		$(this).addClass("svgLoaded");
 
@@ -11,7 +11,7 @@ $(function () {
 	});
 
 
-	$("#yorkStage").load('interactive.svg', function (response) {
+	$("#yorkStage").load('yorkishLine.svg', function (response) {
 
 		$(this).addClass("svgLoaded");
 
