@@ -1,8 +1,8 @@
 function respond (response) {
 		var t = $(this);
 		t.addClass("svgLoaded");
-		t.attr("xmlns", "http://www.w3.org/2000/svg");
-		t.attr("xmlns:xlink", "http://www.w3.org/1999/xlink");
+		//t.attr("xmlns", "http://www.w3.org/2000/svg");
+		//t.attr("xmlns:xlink", "http://www.w3.org/1999/xlink");
 		/* xmlns="http://www.w3.org/2000/svg" 
     xmlns:xlink="http://www.w3.org/1999/xlink"*/
 		
