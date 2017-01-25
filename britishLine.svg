@@ -272,12 +272,12 @@
    id="namedview369"
    showgrid="false"
    inkscape:zoom="1.4142136"
-   inkscape:cx="411.91906"
-   inkscape:cy="224.92094"
+   inkscape:cx="278.62944"
+   inkscape:cy="1752.2715"
    inkscape:window-x="66"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g10498"
+   inkscape:current-layer="build"
    showguides="false" />
 <g
    id="background"
@@ -339,6 +339,7 @@
    style="font-size:28.22509956px;text-align:center;text-anchor:middle;fill:#ffffff;font-family:LeagueGothic"
    x="54.59655"
    y="0">Romans</text>
+
 
 
 
@@ -421,6 +422,7 @@
 
 
 
+
 </g>
 	<g
    id="design"
@@ -447,6 +449,7 @@
 
 
 
+
 		<g
    id="design-badge">
 			<circle
@@ -468,6 +471,7 @@
    style="font-size:28.22509956px;text-align:center;text-anchor:middle;fill:#ffffff;font-family:LeagueGothic"
    x="711.06104"
    y="534.81958">Anglo-Saxons</text>
+
 
 
 
@@ -514,6 +518,7 @@
    style="font-size:24.39349937px;fill:#ffffff;font-family:LeagueGothic"
    x="631.3092"
    y="929.61664">Early Medieval</text>
+
 
 
 
@@ -575,9 +580,11 @@
 
 
 
+
 		<g
    id="build-badge"
-   transform="translate(0,648)">
+   transform="translate(0,648)"
+   onclick="openInNewTab('https://sites.google.com/a/hamline.edu/class-wi17-hist-1980-01/britain/viking-era-in-britain-793-c-e-to-1066-c-e');">
 			<circle
    cx="311"
    cy="772.5"
@@ -599,6 +606,7 @@
    style="font-size:28.22509956px;text-align:center;text-anchor:middle;fill:#ffffff;font-family:LeagueGothic"
    x="70.142403"
    y="0">Viking Era</text>
+
 
 
 
@@ -677,6 +685,7 @@
 
 
 
+
 		<g
    id="beer-badge">
 			<circle
@@ -699,6 +708,7 @@
    style="font-size:28.22509956px;fill:#ffffff;font-family:LeagueGothic"
    x="236.83069"
    y="1122.2338">High Medieval</text>
+
 
 
 
@@ -738,6 +748,7 @@
      x="273.65189"
      y="2537.9958"
      style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#5d0e03;fill-opacity:1;font-family:LeagueGothic;-inkscape-font-specification:LeagueGothic">1066-1337 C.E.</tspan></text>
+
 
 
 
@@ -782,6 +793,7 @@
 
 
 
+
 				
 
 
@@ -801,6 +813,7 @@
      x="283.95746"
      id="tspan7582"
      sodipodi:role="line">1485-1547 C.E.</tspan></text>
+
 
 
 
@@ -850,6 +863,7 @@
 
 
 
+
 			</g>
 			
 		</g>
@@ -859,6 +873,7 @@
    font-size="28.2251"
    id="text310-0"
    style="font-size:28.22509956px;fill:#3d7bea;font-family:LeagueGothic;fill-opacity:1">1547-1603 C.E.</text>
+
 
 
 
@@ -903,11 +918,13 @@
 
 
 
+
 				<text
    transform="translate(684.5508,940.2686)"
    font-size="24.3935"
    id="text7619"
    style="font-size:24.39349937px;fill:#ffffff;font-family:LeagueGothic">1066-1337</text>
+
 
 
 
@@ -928,6 +945,7 @@
    font-size="18"
    id="text7625"
    style="font-size:18px;fill:#ffffff;fill-opacity:1;font-family:LeagueGothic">//TODO </text>
+
 
 
 
@@ -965,6 +983,7 @@
      x="271.71481"
      y="1018.7806"
      style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#5d0e03;fill-opacity:1;font-family:LeagueGothic;-inkscape-font-specification:LeagueGothic">1066-1337 C.E.</tspan></text>
+
 
 
 
@@ -1006,8 +1025,7 @@
    sodipodi:ry="130.5"
    style="fill:#12fff2;fill-opacity:1"
    clip-path="url(#clipPath8922)"
-   onclick="var win = window.open(https://sites.google.com/a/hamline.edu/class-wi17-hist-1980-01/britain/viking-era-in-britain-793-c-e-to-1066-c-e, '_blank');
-  win.focus();" /><g
+   onclick="var win = window.open(https://sites.google.com/a/hamline.edu/class-wi17-hist-1980-01/britain/viking-era-in-britain-793-c-e-to-1066-c-e, '_blank');   win.focus();" /><g
    id="g10502"
    style="stroke:none">
 				<text
@@ -1016,6 +1034,7 @@
    style="font-size:34.75311661px;fill:#ffffff;stroke:none;stroke-opacity:1;font-family:LeagueGothic"
    x="656.08722"
    y="917.48621">Stuarts</text>
+
 
 
 
@@ -1032,6 +1051,7 @@
    font-size="24.3935"
    x="634.13763"
    y="948.0014">Eartly Stuarts</text>
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Minecraftia;-inkscape-font-specification:Minecraftia Bold"
@@ -1044,12 +1064,14 @@
      id="tspan7277"
      x="566.39252"
      y="3246.0259" /></text>
+
 <text
    y="1027.0823"
    x="599.0697"
    font-size="24.3935"
    id="text7279"
    style="font-size:21.45009613px;fill:#ffffff;stroke:none;stroke-opacity:1;font-family:LeagueGothic">Eartly-Modern Stuarts</text>
+
 </g>
 			
 		</g>
@@ -1065,6 +1087,7 @@
      x="287.71481"
      y="1054.7806"
      style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient8932);fill-opacity:1;font-family:LeagueGothic;-inkscape-font-specification:LeagueGothic">1485-1547 C.E.</tspan></text>
+
 
 
 
