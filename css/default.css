@@ -147,3 +147,7 @@ a {
 	text-align: center;
 	padding: 5px 0;
 }
+
+svg {
+	height: 2000px;
+}
