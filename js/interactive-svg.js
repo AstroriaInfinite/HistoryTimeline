@@ -18,3 +18,9 @@ $(function () {
 	$("#yorkStage").load('yorkishLine.svg', respond);
 
 });
+
+	
+function openInNewTab(url) {
+  var win = window.open(url, '_blank');
+  win.focus();
+}
