@@ -20,11 +20,25 @@
    enable-background="new 0 0 1024 1388"
    xml:space="preserve"
    inkscape:version="0.4 r12068"
-   sodipodi:docname="interactive.svg"><metadata
+   sodipodi:docname="britishLine.svg"><metadata
    id="metadata373"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs371"><linearGradient
+     id="linearGradient8926"><stop
+       style="stop-color:#29ff19;stop-opacity:1;"
+       offset="0"
+       id="stop8928" /><stop
+       style="stop-color:#19fff9;stop-opacity:1;"
+       offset="1"
+       id="stop8930" /></linearGradient><linearGradient
+     id="linearGradient8731"><stop
+       style="stop-color:#c00000;stop-opacity:1;"
+       offset="0"
+       id="stop8733" /><stop
+       style="stop-color:#cecece;stop-opacity:1;"
+       offset="1"
+       id="stop8735" /></linearGradient><linearGradient
      id="linearGradient7353"><stop
        style="stop-color:#473f29;stop-opacity:1;"
        offset="0"
@@ -206,6 +220,44 @@
      fx="311"
      fy="772.5"
      r="130.5"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient8731"
+     id="linearGradient8737"
+     x1="586.5"
+     y1="1000.5"
+     x2="847.5"
+     y2="1000.5"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient8731"
+     id="linearGradient8741"
+     gradientUnits="userSpaceOnUse"
+     x1="586.5"
+     y1="1000.5"
+     x2="847.5"
+     y2="1000.5" /><clipPath
+     clipPathUnits="userSpaceOnUse"
+     inkscape:inverse="false"
+     id="clipPath8914"><path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 410.82904,3236.8335 -55.15433,13.435 0,86.9741 L 412.95036,3342.8995 Z"
+       id="path8916"
+       inkscape:connector-curvature="0" /></clipPath><clipPath
+     clipPathUnits="userSpaceOnUse"
+     inkscape:inverse="false"
+     id="clipPath8922"><path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 567.87017,995.2515 882.53269,993.8372 868.39055,1191.8271 569.99149,1182.6348 Z"
+       id="path8924"
+       inkscape:connector-curvature="0" /></clipPath><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient8926"
+     id="linearGradient8932"
+     x1="358.62286"
+     y1="1033.47"
+     x2="392.18732"
+     y2="1054.6832"
      gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -219,13 +271,13 @@
    inkscape:window-height="1057"
    id="namedview369"
    showgrid="false"
-   inkscape:zoom="0.70710678"
-   inkscape:cx="251.95853"
-   inkscape:cy="298.31631"
+   inkscape:zoom="1.4142136"
+   inkscape:cx="411.91906"
+   inkscape:cy="168.35239"
    inkscape:window-x="66"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g7512"
+   inkscape:current-layer="g10498"
    showguides="false" />
 <g
    id="background"
@@ -284,7 +336,10 @@
    transform="translate(284.416,403.2793)"
    font-size="28.2251"
    id="text161"
-   style="font-size:28.22509956px;fill:#ffffff;font-family:LeagueGothic">Romans</text>
+   style="font-size:28.22509956px;text-align:center;text-anchor:middle;fill:#ffffff;font-family:LeagueGothic"
+   x="54.59655"
+   y="0">Romans</text>
+
 
 
 
@@ -365,6 +420,7 @@
      style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f5aa04;fill-opacity:1;font-family:LeagueGothic;-inkscape-font-specification:LeagueGothic">43-400 C.E.</tspan></text>
 
 
+
 </g>
 	<g
    id="design"
@@ -390,6 +446,7 @@
 
 
 
+
 		<g
    id="design-badge">
 			<circle
@@ -408,9 +465,10 @@
 				<text
    font-size="28.2251"
    id="text198"
-   style="font-size:28.22509956px;fill:#ffffff;font-family:LeagueGothic"
-   x="614.58167"
+   style="font-size:28.22509956px;text-align:center;text-anchor:middle;fill:#ffffff;font-family:LeagueGothic"
+   x="711.06104"
    y="534.81958">Anglo-Saxons</text>
+
 
 
 
@@ -456,6 +514,7 @@
    style="font-size:24.39349937px;fill:#ffffff;font-family:LeagueGothic"
    x="631.3092"
    y="929.61664">Early Medieval</text>
+
 
 
 
@@ -515,6 +574,7 @@
 
 
 
+
 		<g
    id="build-badge"
    transform="translate(0,648)">
@@ -536,7 +596,10 @@
    transform="translate(287.0991,691.5059)"
    font-size="28.2251"
    id="text272"
-   style="font-size:28.22509956px;fill:#ffffff;font-family:LeagueGothic">Viking Era</text>
+   style="font-size:28.22509956px;text-align:center;text-anchor:middle;fill:#ffffff;font-family:LeagueGothic"
+   x="70.142403"
+   y="0">Viking Era</text>
+
 
 
 
@@ -613,6 +676,7 @@
 
 
 
+
 		<g
    id="beer-badge">
 			<circle
@@ -635,6 +699,7 @@
    style="font-size:28.22509956px;fill:#ffffff;font-family:LeagueGothic"
    x="236.83069"
    y="1122.2338">High Medieval</text>
+
 
 
 
@@ -675,28 +740,24 @@
      style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#5d0e03;fill-opacity:1;font-family:LeagueGothic;-inkscape-font-specification:LeagueGothic">1066-1337 C.E.</tspan></text>
 
 
+
 <g
    transform="translate(2.1274101e-6,2384)"
    id="g7486">
-		<rect
-   style="fill:#5d0e03;fill-opacity:1"
-   id="rect7488"
-   height="124.3"
-   width="17"
-   y="940.95007"
-   x="505.42001" />
-		<polyline
-   style="fill:#5d0e03;fill-opacity:1"
-   id="polyline7490"
-   points="520.256,1010.415 532.566,1001.092 515.023,990.133   "
-   transform="matrix(5.3189295,-1.3182379,-0.85221434,-0.89995489,-1385.4604,2567.821)" />
+		<path
+   style="fill:#cb0000;fill-opacity:1"
+   d="M 348.09375 2981.1562 L 348.09375 3105.4688 L 365.09375 3105.4688 L 365.09375 3033.1875 L 436.75 3005.0625 L 365.09375 3012.6875 L 365.09375 2981.1562 L 348.09375 2981.1562 z "
+   transform="translate(157.3254,-2040.2163)"
+   id="rect7488" />
+		
 		
 
 		<g
    id="g7492"
-   transform="translate(22.873629,-122.85282)">
+   transform="translate(10.145707,-112.24622)"
+   style="fill:url(#linearGradient8737);fill-opacity:1">
 			<circle
-   style="fill:#5d0e03;fill-opacity:1"
+   style="fill:#cb0000;fill-opacity:1"
    sodipodi:ry="130.5"
    sodipodi:rx="130.5"
    sodipodi:cy="1000.5"
@@ -707,9 +768,11 @@
    cy="1000.5"
    cx="717" />
 			<g
-   id="g7496">
+   id="g7496"
+   transform="translate(-3.5355339,0)"
+   style="fill:#ffffff;fill-opacity:1">
 				<text
-   style="font-size:20.18091774px;fill:#ffffff;font-family:LeagueGothic"
+   style="font-size:20.18091774px;fill:#ffffff;fill-opacity:1;font-family:LeagueGothic"
    id="text7498"
    font-size="24.3935"
    x="619.09961"
@@ -718,48 +781,13 @@
 
 
 
+
 				
 
 
 
 			</g>
-			<g
-   id="g7502">
-				<rect
-   style="fill:none"
-   id="rect7504"
-   height="68"
-   width="187"
-   y="1046.4"
-   x="622.89203" />
-				<text
-   style="font-size:18px;fill:#ffffff;fill-opacity:1;font-family:LeagueGothic"
-   id="text7506"
-   font-size="18"
-   transform="translate(637.332,1059.6289)">//TODO </text>
-
-
-
-
-				
-
-				<g
-   id="g7508">
-					
-					
-					
-					
-				<path
-   transform="matrix(1,0,0,1.6122449,38.963983,-40.449325)"
-   d="m 724.14195,643.64087 c 0,9.94756 -14.1533,18.01165 -31.61229,18.01165 -17.45898,0 -31.61228,-8.06409 -31.61228,-18.01165 0,-9.94756 14.1533,-18.01165 31.61228,-18.01165 C 709.98865,625.62922 724.14195,633.69331 724.14195,643.64087 Z"
-   sodipodi:ry="18.011652"
-   sodipodi:rx="31.612288"
-   sodipodi:cy="643.64087"
-   sodipodi:cx="692.52966"
-   id="path7510"
-   style="fill:#1f0501;fill-opacity:1;stroke:none"
-   sodipodi:type="arc" /></g>
-			</g>
+			
 		</g>
 	<text
    sodipodi:linespacing="125%"
@@ -775,18 +803,19 @@
      sodipodi:role="line">1485-1547 C.E.</tspan></text>
 
 
+
 </g><g
    transform="translate(-0.19366465,2341.4053)"
    id="g7512">
 		<rect
-   style="fill:#eab83d"
+   style="fill:#3d7bea;fill-opacity:1"
    id="rect7514"
    height="112"
    width="17"
    y="1107"
    x="505.54501" />
 		<polyline
-   style="fill:#eab83d"
+   style="fill:#3d7bea;fill-opacity:1"
    id="polyline7516"
    points="509.334,1190.133 497.023,1199.455 514.566,1210.415   "
    transform="matrix(4.1421585,1.1734947,-0.27257743,0.96213385,-1280.5036,-618.10096)" />
@@ -796,7 +825,7 @@
    id="g7520"
    transform="translate(-50.204581,-41.7193)">
 			<circle
-   style="fill:#eab83d"
+   style="fill:#3d7bea;fill-opacity:1"
    sodipodi:ry="130.5"
    sodipodi:rx="130.5"
    sodipodi:cy="1190.5"
@@ -820,6 +849,7 @@
 
 
 
+
 			</g>
 			
 		</g>
@@ -828,7 +858,8 @@
    x="207.9416"
    font-size="28.2251"
    id="text310-0"
-   style="font-size:28.22509956px;fill:#eab83d;font-family:LeagueGothic">1547-1603 C.E.</text>
+   style="font-size:28.22509956px;fill:#3d7bea;font-family:LeagueGothic;fill-opacity:1">1547-1603 C.E.</text>
+
 
 
 </g><g
@@ -871,11 +902,13 @@
 
 
 
+
 				<text
    transform="translate(684.5508,940.2686)"
    font-size="24.3935"
    id="text7619"
    style="font-size:24.39349937px;fill:#ffffff;font-family:LeagueGothic">1066-1337</text>
+
 
 
 
@@ -895,6 +928,7 @@
    font-size="18"
    id="text7625"
    style="font-size:18px;fill:#ffffff;fill-opacity:1;font-family:LeagueGothic">//TODO </text>
+
 
 
 
@@ -933,99 +967,94 @@
      style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#5d0e03;fill-opacity:1;font-family:LeagueGothic;-inkscape-font-specification:LeagueGothic">1066-1337 C.E.</tspan></text>
 
 
+
 </g><g
    id="g10492"
    transform="translate(-0.29289112,2617.6464)">
-		<rect
-   x="505.42001"
-   y="940.95007"
-   width="17"
-   height="117.22894"
-   id="rect10494"
-   style="fill:#5d0e03;fill-opacity:1" />
-		<polyline
-   transform="matrix(2.5008967,-0.88563779,-0.33381483,-0.94263867,-445.75516,2378.0632)"
-   points="520.256,1010.415 532.566,1001.092 515.023,990.133   "
-   id="polyline10496"
-   style="fill:#5d0e03;fill-opacity:1" />
+		<path
+   id="path8727"
+   transform="translate(157.61829,-2273.8627)"
+   d="m 347.8125,3214.8125 0,117.2187 17,0 0,-75.5624 39.65625,-16.8126 -39.65625,-3.4062 0,-21.4375 L 347.8125,3214.8125 Z"
+   style="fill:#29ff19;fill-opacity:1;stroke:none"
+   inkscape:connector-curvature="0" />
+		
 		
 
 		<g
-   transform="translate(46.539105,-78.242641)"
+   transform="translate(42.296464,-86.020816)"
    id="g10498">
+			<circle
+   style="fill:#29ff19;fill-opacity:1"
+   sodipodi:ry="130.5"
+   sodipodi:rx="130.5"
+   sodipodi:cy="1000.5"
+   sodipodi:cx="717"
+   d="m 847.5,1000.5 c 0,72.0732 -58.42684,130.5 -130.5,130.5 -72.07316,0 -130.5,-58.4268 -130.5,-130.5 C 586.5,928.42684 644.92684,870 717,870 789.07316,870 847.5,928.42684 847.5,1000.5 Z"
+   id="circle8729"
+   r="130.5"
+   cy="1000.5"
+   cx="717" />
 			<circle
    cx="717"
    cy="1000.5"
    r="130.5"
-   id="circle10500"
+   id="circle8918"
    d="m 847.5,1000.5 c 0,72.0732 -58.42684,130.5 -130.5,130.5 -72.07316,0 -130.5,-58.4268 -130.5,-130.5 C 586.5,928.42684 644.92684,870 717,870 789.07316,870 847.5,928.42684 847.5,1000.5 Z"
    sodipodi:cx="717"
    sodipodi:cy="1000.5"
    sodipodi:rx="130.5"
    sodipodi:ry="130.5"
-   style="fill:#5d0e03;fill-opacity:1" />
-			<g
-   id="g10502">
+   style="fill:#12fff2;fill-opacity:1"
+   clip-path="url(#clipPath8922)"
+   onclick="https://sites.google.com/a/hamline.edu/class-wi17-hist-1980-01/britain/viking-era-in-britain-793-c-e-to-1066-c-e" /><g
+   id="g10502"
+   style="stroke:none">
 				<text
-   transform="translate(680.0996,916.1816)"
    font-size="24.3935"
    id="text10504"
-   style="font-size:24.39349937px;fill:#ffffff;font-family:LeagueGothic">Early Medieval</text>
+   style="font-size:34.75311661px;fill:#ffffff;stroke:none;stroke-opacity:1;font-family:LeagueGothic"
+   x="656.08722"
+   y="917.48621">Stuarts</text>
 
-
-
-
-				<text
-   transform="translate(684.5508,940.2686)"
-   font-size="24.3935"
-   id="text10506"
-   style="font-size:24.39349937px;fill:#ffffff;font-family:LeagueGothic">1066-1337</text>
-
-
-
-
-			</g>
-			<g
-   id="g10508">
-				<rect
-   x="622.89203"
-   y="1046.4"
-   width="187"
-   height="68"
-   id="rect10510"
-   style="fill:none" />
-				<text
-   transform="translate(637.332,1059.6289)"
-   font-size="18"
-   id="text10512"
-   style="font-size:18px;fill:#ffffff;fill-opacity:1;font-family:LeagueGothic">//TODO </text>
 
 
 
 
 				
 
-				<g
-   id="g10514">
-					
-					
-					
-					
-				<path
-   sodipodi:type="arc"
-   style="fill:#1f0501;fill-opacity:1;stroke:none"
-   id="path10516"
-   sodipodi:cx="692.52966"
-   sodipodi:cy="643.64087"
-   sodipodi:rx="31.612288"
-   sodipodi:ry="18.011652"
-   d="m 724.14195,643.64087 c 0,9.94756 -14.1533,18.01165 -31.61229,18.01165 -17.45898,0 -31.61228,-8.06409 -31.61228,-18.01165 0,-9.94756 14.1533,-18.01165 31.61228,-18.01165 C 709.98865,625.62922 724.14195,633.69331 724.14195,643.64087 Z"
-   transform="matrix(1,0,0,1.6122449,38.963983,-40.449325)" /></g>
-			</g>
+
+
+
+			<text
+   style="font-size:24.39349937px;fill:#ffffff;stroke:none;stroke-opacity:1;font-family:LeagueGothic"
+   id="text7273"
+   font-size="24.3935"
+   x="634.13763"
+   y="948.0014">Eartly Stuarts</text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Minecraftia;-inkscape-font-specification:Minecraftia Bold"
+   x="566.39252"
+   y="3246.0259"
+   id="text7275"
+   sodipodi:linespacing="125%"
+   transform="translate(111.07919,-2195.6201)"><tspan
+     sodipodi:role="line"
+     id="tspan7277"
+     x="566.39252"
+     y="3246.0259" /></text>
+<text
+   y="1027.0823"
+   x="599.0697"
+   font-size="24.3935"
+   id="text7279"
+   style="font-size:21.45009613px;fill:#ffffff;stroke:none;stroke-opacity:1;font-family:LeagueGothic">Eartly-Modern Stuarts</text>
+</g>
+			
 		</g>
 	<text
    xml:space="preserve"
-   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5d0e03;fill-opacity:1;stroke:none;font-family:Minecraftia;-inkscape-font-specification:Minecraftia Bold"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient8932);fill-opacity:1;stroke:none;font-family:Minecraftia;-inkscape-font-specification:Minecraftia Bold"
    x="287.71481"
    y="1054.7806"
    id="text10518"
@@ -1034,8 +1063,15 @@
      id="tspan10520"
      x="287.71481"
      y="1054.7806"
-     style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#5d0e03;fill-opacity:1;font-family:LeagueGothic;-inkscape-font-specification:LeagueGothic">1485-1547 C.E.</tspan></text>
+     style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient8932);fill-opacity:1;font-family:LeagueGothic;-inkscape-font-specification:LeagueGothic">1485-1547 C.E.</tspan></text>
 
 
-</g></g>
+
+<path
+   inkscape:connector-curvature="0"
+   style="fill:#12fff2;fill-opacity:1;stroke:none"
+   d="m 347.8125,3214.8125 0,117.2187 17,0 0,-75.5624 39.65625,-16.8126 -39.65625,-3.4062 0,-21.4375 L 347.8125,3214.8125 Z"
+   transform="translate(157.61829,-2273.8627)"
+   id="path8910"
+   clip-path="url(#clipPath8914)" /></g></g>
 </svg>
